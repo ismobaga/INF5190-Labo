@@ -39,7 +39,7 @@ public class PersonneBean {
     public CoordonneeBean getCoordonnee() {
         return coordonnee;
     }
-    public void setcoordonnee(CoordonneeBean coordonnee) {
+    public void setCoordonnee(CoordonneeBean coordonnee) {
         this.coordonnee = coordonnee;
     }
   

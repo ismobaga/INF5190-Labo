@@ -16,5 +16,9 @@ public class PersonneBusiness {
     public ArrayList<PersonneDTO> getListePersonnes() {
         return personneDAO.getAll();
     }
+    
+    public void ajouterPersonne(PersonneDTO personne) {
+    	personneDAO.ajouterPersonne(personne);
+    }
    
 }

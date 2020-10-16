@@ -23,5 +23,13 @@
 			method="execute">
 			<result name="success">WEB-INF/pages/listeCoordonnees.jsp</result>
 		</action>
+		
+		<action name="ajouterPersonne"
+			class="com.uqam.inf5190.labo5.action.AjouterPersonneAction"
+			method="execute">
+			<result name="success">WEB-INF/pages/ajoutConfirmation.jsp</result>
+		</action>
+		
+	
 	</package>
 </struts>

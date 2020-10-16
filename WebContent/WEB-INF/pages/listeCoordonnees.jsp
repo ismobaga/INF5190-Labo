@@ -16,6 +16,6 @@
             <br />
         <% } %>
         
-        
+        <a href="ajouterPersonne.jsp" > Ajouter une personne</a>
     </body>
 </html>

@@ -35,7 +35,7 @@ public class PersonneDTO {
     public CoordonneeDTO getCoordonnee() {
         return coordonnee;
     }
-    public void setcoordonnee(CoordonneeDTO coordonnee) {
+    public void setCoordonnee(CoordonneeDTO coordonnee) {
         this.coordonnee = coordonnee;
     }
 }

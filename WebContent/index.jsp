@@ -7,8 +7,9 @@
 <title>INF5190 Labo 4</title>
 </head>
 <body>
-<a href='<s:url action="bonjour" />'>Bonjour Struts</a></br>
-<a href='<s:url action="listePersonnes" />'>Appuyez ici pour avoir la liste des personnes</a></br>
-<a href='<s:url action="listeCoordonnees" />'>Appuyez ici pour avoir la liste des coordonnees</a>
+<a href='<s:url action="bonjour" />'>Bonjour Struts</a><br/>
+<a href='<s:url action="listePersonnes" />'>Appuyez ici pour avoir la liste des personnes</a><br/>
+<a href='<s:url action="listeCoordonnees" />'>Appuyez ici pour avoir la liste des coordonnees</a> <br/>
+<a href="ajouterPersonne.jsp" > Ajouter une personne</a>
 </body>
 </html>
